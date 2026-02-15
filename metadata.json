@@ -1,0 +1,5 @@
+{
+  "name": "Study & Build AI Companion",
+  "description": "An AI-powered assistant for learning concepts, debugging code, and organizing knowledge using the Gemini API.",
+  "requestFramePermissions": []
+}
